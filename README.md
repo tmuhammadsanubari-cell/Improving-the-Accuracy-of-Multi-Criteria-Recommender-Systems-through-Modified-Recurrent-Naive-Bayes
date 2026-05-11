@@ -83,10 +83,8 @@ jupyter notebook
 
 ### Performance Metrics
 The models are evaluated using standard machine learning metrics:
-- **Mean Absolute Error (MAE)**: Average absolute difference between predicted and actual ratings
-- **Root Mean Squared Error (RMSE)**: Penalizes larger errors more heavily
-- **R² Score**: Proportion of variance explained by the model
-- **Accuracy**: Classification accuracy for rating categories
+- **Mean Absolute Error (MAE)**
+- **F1 Score** 
 
 ### Datasets Used
 - **OpenTable**: Real-world restaurant recommendation data
